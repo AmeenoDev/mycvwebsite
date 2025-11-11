@@ -1,0 +1,17 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "media.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://AmeenoDev.github.io/mycvwebsite",
+  "type": "commonjs",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
